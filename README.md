@@ -37,7 +37,7 @@ The Social Media Platform API provides endpoints for:
 - **Spring Boot**
 - **Spring Data JPA**
 - **Spring Security with JWT**
-- **PostgreSQL** (or H2 for testing)
+- **PostgreSQL** 
 - **Lombok**
 - **JJWT**
 - **Maven**
