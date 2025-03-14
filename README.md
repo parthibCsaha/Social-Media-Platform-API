@@ -33,7 +33,7 @@ A modern, RESTful API built with Spring Boot, Spring Data JPA, Spring Security (
 
 ## Technologies Used
 
-- **Java 11+**
+- **Java 21**
 - **Spring Boot 2.7.x**
 - **Spring Data JPA**
 - **Spring Security (JWT)**
